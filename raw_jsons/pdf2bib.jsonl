@@ -1,0 +1,31 @@
+{
+    "repo_name": "pdf2bib",
+    "stars_count": 100,
+    "files": [
+        {
+            "filepath": "setup.py",
+            "content": "",
+            "metadata": {
+                "size": 100,
+                "lang": "Python",
+                "ext": "py",
+                "hexsha": "...",
+                "avg_line_length": 22,
+                "max_line_length": 47,
+                "line_count": 19,
+                "non_empty_line_count": 16,
+                "imports": [
+                    "..."   # all import names
+                ],
+                "local_imports": [
+                    "..."   # local import names
+                ]
+            }
+        },
+        ...  # one entry per file
+    ]
+     "repo_size": {
+        "number_of_files": 30,
+        "lines_of_code": 900
+    }
+}

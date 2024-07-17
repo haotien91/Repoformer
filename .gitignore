@@ -137,3 +137,18 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+
+# tree-sitter package
+ts_package/tree-sitter-*
+
+
+results/
+cceval/processed_data
+*.tar.xz
+*.tar
+*.tar.gz
+processed_data
+repositories
+datasets
+*.zip
